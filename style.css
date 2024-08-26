@@ -1,0 +1,48 @@
+.bigbox{
+            background-color:rgb(12, 65, 150);
+            height:600px;
+            padding: 20px;
+            border-radius:10px;
+            width: fit-content;
+            margin: 0 auto;
+ 
+        }
+        .smallbox{
+            width:400px;
+            height:125px;
+            background-color:rgb(41, 93, 165);
+             font-size: 60px;
+             color:white;
+            border-radius: 15px;
+             
+        }
+        .box{
+            width:380px;
+            height:450px;
+            background-color:rgb(41, 93, 165);
+            margin-top: 10px;
+            border-radius: 15px;
+            padding: 10px;
+            
+
+        }
+        .button{
+            width: 80px;
+            height:80px;
+            background-color: mediumpurple;
+            margin: 5px;
+            
+            border-radius:15px;
+            border:none;
+            color: white;
+            font-size: medium;
+        }
+        .button1{
+            width: 180px;
+            height: 80px;
+            background-color: lightsalmon;
+            border-radius: 15px;
+            border:none;
+            color:white;
+            font-size: medium;
+        }
